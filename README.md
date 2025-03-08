@@ -2,7 +2,7 @@
 
 I developed this program to learn more about Erlang and it's syntax.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TbD3FKf3AK0)
 
 # Development Environment
 
